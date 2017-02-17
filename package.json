@@ -26,6 +26,7 @@
     "url": "http://github.com/martynsmith/node-irc/issues"
   },
   "main": "lib/irc",
+  "types": "./typings/index.d.ts",
   "engines": {
     "node": ">=0.10.0"
   },
